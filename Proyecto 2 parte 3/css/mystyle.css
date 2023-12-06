@@ -1,0 +1,42 @@
+body{
+    background-color: grey;
+}
+
+
+
+.mainTitle{
+    font-family: "sans-serif";
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.square{
+    width: 100px;
+    height: 100px;
+}
+
+.black{
+    background-color: black;
+}
+
+.tomato{
+    background-color: tomato;
+}		
+
+.board{
+    border: 2px solid black;
+}
+
+.number{
+    text-align: center;
+    font-size: 33px;
+    color: white;
+    font-weight: bold;
+}
+
+.letra{
+    text-align: left;
+    font-size: 33px;
+    color: white;
+    font-weight: bold;
+}

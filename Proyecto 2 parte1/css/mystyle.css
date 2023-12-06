@@ -1,0 +1,29 @@
+body{
+    background-color: grey;
+}
+
+
+
+.mainTitle{
+    font-family: "sans-serif";
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.square{
+    width: 100px;
+    height: 100px;
+}
+
+.black{
+    background-color: black;
+}
+
+.white{
+    background-color: white;
+}		
+
+.board{
+    border: 2px solid black;
+}
+
